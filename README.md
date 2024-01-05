@@ -6,4 +6,4 @@ pip install -r requirements.txt
 ```shell
 playwright install
 ```
-3. 重新命名 `.env.example` 為 `.env`，並輸入 `UID` 和 `KEY`
+3. 編輯檔案 `.env.example` 中的 `UID` 和 `KEY`，並重新命名 `.env.example` 為 `.env`
